@@ -4,7 +4,7 @@
 ## install:
 </br>
 
-> git clone "node-ytdl" </br>
+> $ git clone "node-ytdl" </br>
 
 > cd node-ytdl </br>
 
@@ -19,10 +19,10 @@
 > node main.js </br>
 
 2/ Or, your video and default name:
-> node main.js http://www.youtube.com/watch?v=90AiXO1pAiA </br>
+> node main.js "http://www.youtube.com/watch?v=90AiXO1pAiA" </br>
 
 3/ Or, your video and your name:
-> node main.js http://www.youtube.com/watch?v=90AiXO1pAiA "myVideoNameEx" </br>
+> node main.js "http://www.youtube.com/watch?v=90AiXO1pAiA" "myVideoNameEx" </br>
 
 ## NPM Package
 </br>

@@ -11,8 +11,10 @@
 
 1/ Default video and default name: </br>
 > $ node main.js </br>
+
 2/ Or, your video and default name: </br>
 > $ node main.js "yt.url/ex" </br>
+
 3/ Or, your video and your name: </br>
 > $ node main.js "yt.url/ex" "myVideoNameEx" </br>
 
